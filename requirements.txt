@@ -1,0 +1,9 @@
+requests
+nltk
+numpy
+pandas
+scikit-learn
+ydata-profiling
+seaborn
+ipywidgets
+jupyter
